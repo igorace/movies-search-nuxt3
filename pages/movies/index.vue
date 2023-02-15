@@ -1,0 +1,3 @@
+<template>
+  <movie-search />
+</template>
